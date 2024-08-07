@@ -1,0 +1,14 @@
+aunt
+boy
+brother
+father
+girl
+grandma
+grandpa
+man
+mother
+parent
+sibling
+sister
+uncle
+woman

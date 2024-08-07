@@ -1,0 +1,11 @@
+Beach
+Bed
+Bedroom
+Desert
+Forest
+Library
+Meadow
+Mountain
+Riverbank
+Sand beach
+Stream
